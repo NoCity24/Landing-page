@@ -1,0 +1,25 @@
+.body {
+    display:flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1F2937;
+    color:white;
+}
+
+.header-top {
+    display:flex;
+    justify-content: space-around;
+}
+
+.links {
+    list-style:none;
+    display: flex;
+    gap:8px;
+    list-style:none;
+    display: flex;
+    gap:8px;
+    align-items: center;
+    text-decoration: none;
+}
